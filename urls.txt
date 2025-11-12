@@ -1,0 +1,7 @@
+backend site
+
+https://backend-site-16kd.onrender.com/
+
+frontend site
+
+https://sofi-restaurant.vercel.app/
